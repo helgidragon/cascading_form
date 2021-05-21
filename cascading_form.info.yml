@@ -1,0 +1,6 @@
+name: Cascading Form
+type: module
+description: Módulo para generar actualización de campos de formulario en cascada con Ajax en Drupal
+package: john
+core: 8.x
+core_version_requirement: ^8 || ^9

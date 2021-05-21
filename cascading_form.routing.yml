@@ -1,0 +1,7 @@
+cascading_form.example:
+  path: '/formulario-cascada/ejemplo1'
+  defaults:
+    _title: 'Formulario en cascada'
+    _form: '\Drupal\cascading_form\Form\CascadingFormController'
+  requirements:
+    _permission: 'access content'
